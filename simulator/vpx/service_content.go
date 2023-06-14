@@ -31,9 +31,9 @@ var ServiceContent = types.ServiceContent{
 	ViewManager:       &types.ManagedObjectReference{Type: "ViewManager", Value: "ViewManager"},
 	About: types.AboutInfo{
 		Name:                  "VMware vCenter Server",
-		FullName:              "VMware vCenter Server 6.5.0 build-5973321",
+		FullName:              "VMware vCenter Server 6.7.0 build-5973321",
 		Vendor:                "VMware, Inc.",
-		Version:               "6.5.0",
+		Version:               "7.0.3",
 		Build:                 "5973321",
 		LocaleVersion:         "INTL",
 		LocaleBuild:           "000",
